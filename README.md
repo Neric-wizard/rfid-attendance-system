@@ -75,14 +75,12 @@ src/main/resources/serviceAccountKey.json
 
 ## 📷 Screenshots
 
+### 🪪 RFID Scan
+![RFID Scan](https://github.com/user-attachments/assets/1e401041-f052-4bad-b009-649b1e86a6a0)
 
-| RFID Scan | Attendance Dashboard |
-|------------|---------------------|
-| ![RFID Scan]( <img width="1280" height="970" alt="image" src="https://github.com/user-attachments/assets/1e401041-f052-4bad-b009-649b1e86a6a0" />
-) | ![Dashboard](<img width="700" height="468" alt="img2" src="https://github.com/user-attachments/assets/c22f3cca-3a3f-471a-9f39-281c92f17c50" />
-) |
+### 🖥️ Attendance Dashboard
+![Dashboard](https://github.com/user-attachments/assets/c22f3cca-3a3f-471a-9f39-281c92f17c50)
 
----
 
 ## 🧑‍💻 Author
 
